@@ -8,12 +8,12 @@ bug-reports:
 author:         Matt Hunzinger
 maintainer:     matthunz2@gmail.com
 license:        MIT
--- license-file:   LICENSE
+license-file:   LICENSE
 build-type:     Simple
 
 library
   exposed-modules:
-      Demo.Lib
+      Music
   hs-source-dirs:
       src
   build-depends:
